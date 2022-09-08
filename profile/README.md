@@ -1,19 +1,6 @@
-## Hi there 👋
+# Welcome to Stellar Cannacoin / StellarCannaCoin 👋
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
-# Welcome to Stellar Cannacoin / StellarCannaCoin
-
-## What is Stellar Cannacoin / StellarCannaCoin?
+## What is Stellar Cannacoin / StellarCannaCoin? 🌈
 Become part of our active community by joining our Discord server & Reddit page. First off, download your wallet so you can receive your first Cannacoin through our daily faucet. After that, you can jump on Reddit & Discord and take part in contests, airdrops and hang out with the best community in the cannabis-crypto world. 
 
 ### Enabling payments through technology
@@ -28,7 +15,7 @@ It automatically tracks transactions and payments with an order number and recei
 
 
 
-## Our vision:
+## Our vision: 🍿
 #### Eco Friendly
 Bitcoin uses 1,575 kilowatt-hours per transaction, Stellar CANNACOIN uses just 0.00022 kilowatt-hours per transaction, making it a much more efficient cryptocurrency and better for the environment.
 
