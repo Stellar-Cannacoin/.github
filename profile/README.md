@@ -34,5 +34,5 @@ We produces open-source software which will become available in our repositories
 - https://discord.gg/pR99KQRC
 
 Keywords:
-crypto, stellarcannacoin, stellar cannac coin, stellar cannacoin, cannabis coin
+crypto, stellarcannacoin, stellar canna coin, stellar cannacoin, cannabis coin
 
