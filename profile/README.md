@@ -27,6 +27,10 @@ Transactions on the Stellar blockchain are confirmed in 3-5 seconds.
 
 We produces open-source software which will become available in our repositories.
 
+## Available software:
+- https://stashapp.cloud
+- https://listr.cc
+
 ## Socials & website:
 - https://stellarcannacoin.org/
 - https://www.reddit.com/r/StellarCannaCoin/
